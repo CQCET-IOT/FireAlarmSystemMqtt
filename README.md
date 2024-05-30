@@ -1,4 +1,4 @@
-#FireAlarmSystem
+# FireAlarmSystem
 
 这是一个使用C#编写的森林火灾检测程序。借助于OneNET平台，可以实现设备属性上传、图片上传，并能够调用OneNET AI能力，判断图片中是否存在火灾或者烟雾。
 
